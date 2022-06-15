@@ -1,4 +1,4 @@
-# Linkedin Crawler for personal use.
+# Linkedin Crawler
 Web Crawler to scrap profile data from Linkedin
 
 About
