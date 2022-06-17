@@ -19,21 +19,20 @@ Technicalities
 The scraper make use of libraries such as selenium, regular expressions, BeautifulSoup, parsel.
 Selenium helps to automate the process of scrapping. The webdriver associated with selenium runs a headless browser in the background. Selenium is also capable of running javascript in the webpages sychronously.
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dealing with lazy pagination.
 
 This crawler first pulls the web links of connections after logging in and stores them. The connections page has a lazy pagination and hence it has to be scrapped first in order to avoid dealing with the infinite scroll every time.
 Each profile is then visted sequentially with random wait period, random clicks, refresh, previous page visits in between.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Extracting html elements.
 
 Data points in these webpges are pulled using a combination of Paresl, BeautifulSoup and regular expressions.
 Parsel is a library to extract and remove data from HTML and XML using XPath and CSS selectors.
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Conclusion
-
-This crawler 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
