@@ -1,10 +1,9 @@
 # Linkedin Crawler
-Web Crawler to scrap profile data from Linkedin
 
 About
 
 The objective is to systematically visit one's connections linkedin profiles and extract data points from these pages. 
-These extraced datapoints are then populated in a csv file and stored. This crawler is designed to be used for personal use. But it can be scaled up to pull large amounts of data.
+These extraced datapoints are then populated in a csv file and stored. This crawler is designed to be used for personal use. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
