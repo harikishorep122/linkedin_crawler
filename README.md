@@ -32,7 +32,20 @@ Parsel is a library to extract and remove data from HTML and XML using XPath and
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Discalimer
 
-## Bibliography
+This crawler 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Disclaimer
+
+This scrapper is to be used only for educatiional purposes and should not be used in a commercial scale as it violates Linkedin policy. Use the crawler respecting all the ethical aspects of crawling else it can get your account banned.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bibliography
+
+1. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+2. https://www.selenium.dev/documentation/
+3. https://parsel.readthedocs.io/en/latest/usage.html
+4. https://docs.python.org/3/library/re.html
